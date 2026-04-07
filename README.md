@@ -42,7 +42,7 @@ streamlit run app.py
 ## 4. Use
 
 1. Upload your resume.
-2. Enter a job query such as `data scientist machine learning python`.
+2. Enter a job query such as `data scientist/machine learning/ python/intern`.
 3. Keep the location as `Vancouver, BC, Canada` or change it.
 4. Click **Fetch live jobs**.
 5. Click **Rank with Gemini**.
