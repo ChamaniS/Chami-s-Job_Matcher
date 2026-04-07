@@ -1,0 +1,4 @@
+title,company,location,source,url,description
+Data Analyst,Example Corp,"Vancouver, BC",Manual,https://example.com/job1,"We need SQL, Python, dashboards, reporting, and stakeholder communication."
+ML Engineer,North Labs,"Burnaby, BC",Manual,https://example.com/job2,"Strong Python, machine learning, deployment, and cloud experience required."
+Technical Writer,West Coast Apps,"Remote - Vancouver",Manual,https://example.com/job3,"Create API documentation, tutorials, and developer guides."
